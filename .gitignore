@@ -1,0 +1,9 @@
+*.apk
+*.jks
+*.keystore
+*.p12
+*.pem
+.env*
+release-staging/
+__pycache__/
+.DS_Store
